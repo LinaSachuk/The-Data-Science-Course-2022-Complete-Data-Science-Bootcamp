@@ -33,3 +33,7 @@ Machine Learning
 Deep Learning
 
 Each of these topics builds on the previous ones. And you risk getting lost along the way if you don’t acquire these skills in the right order. For example, one would struggle in the application of Machine Learning techniques before understanding the underlying Mathematics. Or, it can be overwhelming to study regression analysis in Python before knowing what a regression is.
+
+So, in an effort to create the most effective, time-efficient, and structured data science training available online, we created The Data Science Course 2022.
+
+We believe this is the first training program that solves the biggest challenge to entering the data science field – having all the necessary resources in one place.
