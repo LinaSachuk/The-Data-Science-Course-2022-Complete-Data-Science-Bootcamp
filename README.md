@@ -37,3 +37,7 @@ Each of these topics builds on the previous ones. And you risk getting lost alon
 So, in an effort to create the most effective, time-efficient, and structured data science training available online, we created The Data Science Course 2022.
 
 We believe this is the first training program that solves the biggest challenge to entering the data science field – having all the necessary resources in one place.
+
+Moreover, our focus is to teach topics that flow smoothly and complement each other. The course teaches you everything you need to know to become a data scientist at a fraction of the cost of traditional programs (not to mention the amount of time you will save).
+
+## The Skills
