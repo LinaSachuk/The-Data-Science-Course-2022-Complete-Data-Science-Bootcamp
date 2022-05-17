@@ -41,3 +41,7 @@ We believe this is the first training program that solves the biggest challenge 
 Moreover, our focus is to teach topics that flow smoothly and complement each other. The course teaches you everything you need to know to become a data scientist at a fraction of the cost of traditional programs (not to mention the amount of time you will save).
 
 ## The Skills
+
+1.  Intro to Data and Data Science
+
+Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean?
