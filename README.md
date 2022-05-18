@@ -45,3 +45,4 @@ Moreover, our focus is to teach topics that flow smoothly and complement each ot
 1.  Intro to Data and Data Science
 
 Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean?
+Why learn it? As a candidate data scientist, you must understand the ins and outs of each of these areas and recognise the appropriate approach to solving a problem. This ‘Intro to data and data science’ will give you a comprehensive look at all these buzzwords and where they fit in the realm of data science.
