@@ -46,3 +46,9 @@ Moreover, our focus is to teach topics that flow smoothly and complement each ot
 
 Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean?
 Why learn it? As a candidate data scientist, you must understand the ins and outs of each of these areas and recognise the appropriate approach to solving a problem. This ‘Intro to data and data science’ will give you a comprehensive look at all these buzzwords and where they fit in the realm of data science.
+
+2.  Mathematics
+
+Learning the tools is the first step to doing data science. You must first see the big picture to then examine the parts in detail.
+
+We take a detailed look specifically at calculus and linear algebra as they are the subfields data science relies on.
