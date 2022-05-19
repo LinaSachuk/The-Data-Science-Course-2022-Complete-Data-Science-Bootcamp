@@ -52,3 +52,6 @@ Why learn it? As a candidate data scientist, you must understand the ins and out
 Learning the tools is the first step to doing data science. You must first see the big picture to then examine the parts in detail.
 
 We take a detailed look specifically at calculus and linear algebra as they are the subfields data science relies on.
+Why learn it?
+
+Calculus and linear algebra are essential for programming in data science. If you want to understand advanced machine learning algorithms, then you need these skills in your arsenal.
