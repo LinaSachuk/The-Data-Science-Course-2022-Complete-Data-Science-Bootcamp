@@ -55,3 +55,7 @@ We take a detailed look specifically at calculus and linear algebra as they are 
 Why learn it?
 
 Calculus and linear algebra are essential for programming in data science. If you want to understand advanced machine learning algorithms, then you need these skills in your arsenal.
+
+3. Statistics
+
+You need to think like a scientist before you can become a scientist. Statistics trains your mind to frame problems as hypotheses and gives you techniques to test these hypotheses, just like a scientist.
