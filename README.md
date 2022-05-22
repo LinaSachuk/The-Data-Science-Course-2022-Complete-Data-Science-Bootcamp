@@ -59,3 +59,6 @@ Calculus and linear algebra are essential for programming in data science. If yo
 3. Statistics
 
 You need to think like a scientist before you can become a scientist. Statistics trains your mind to frame problems as hypotheses and gives you techniques to test these hypotheses, just like a scientist.
+Why learn it?
+
+This course doesn’t just give you the tools you need but teaches you how to use them. Statistics trains you to think like a scientist.
