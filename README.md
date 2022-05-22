@@ -62,3 +62,7 @@ You need to think like a scientist before you can become a scientist. Statistics
 Why learn it?
 
 This course doesn’t just give you the tools you need but teaches you how to use them. Statistics trains you to think like a scientist.
+
+4. Python
+
+Python is a relatively new programming language and, unlike R, it is a general-purpose programming language. You can do anything with it! Web applications, computer games and data science are among many of its capabilities. That’s why, in a short space of time, it has managed to disrupt many disciplines. Extremely powerful libraries have been developed to enable data manipulation, transformation, and visualisation. Where Python really shines however, is when it deals with machine and deep learning.
