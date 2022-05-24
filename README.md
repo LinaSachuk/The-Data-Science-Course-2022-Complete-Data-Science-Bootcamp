@@ -66,3 +66,7 @@ This course doesn’t just give you the tools you need but teaches you how to us
 4. Python
 
 Python is a relatively new programming language and, unlike R, it is a general-purpose programming language. You can do anything with it! Web applications, computer games and data science are among many of its capabilities. That’s why, in a short space of time, it has managed to disrupt many disciplines. Extremely powerful libraries have been developed to enable data manipulation, transformation, and visualisation. Where Python really shines however, is when it deals with machine and deep learning.
+
+Why learn it?
+
+When it comes to developing, implementing, and deploying machine learning models through powerful frameworks such as scikit-learn, TensorFlow, etc, Python is a must have programming language.
