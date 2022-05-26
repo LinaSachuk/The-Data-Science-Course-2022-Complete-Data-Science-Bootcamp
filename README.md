@@ -77,3 +77,7 @@ Data scientists don’t just need to deal with data and solve data driven proble
 Why learn it?
 
 A data scientist relies on business intelligence tools like Tableau to communicate complex results to non-technical decision makers.
+
+6.  Advanced Statistics
+
+Regressions, clustering, and factor analysis are all disciplines that were invented before machine learning. However, now these statistical methods are all performed through machine learning to provide predictions with unparalleled accuracy. This section will look at these techniques in detail.
