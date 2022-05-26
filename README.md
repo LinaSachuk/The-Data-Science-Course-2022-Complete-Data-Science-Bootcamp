@@ -74,3 +74,6 @@ When it comes to developing, implementing, and deploying machine learning models
 5. Tableau
 
 Data scientists don’t just need to deal with data and solve data driven problems. They also need to convince company executives of the right decisions to make. These executives may not be well versed in data science, so the data scientist must but be able to present and visualise the data’s story in a way they will understand. That’s where Tableau comes in – and we will help you become an expert story teller using the leading visualisation software in business intelligence and data science.
+Why learn it?
+
+A data scientist relies on business intelligence tools like Tableau to communicate complex results to non-technical decision makers.
